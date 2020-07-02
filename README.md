@@ -5,7 +5,7 @@ Based on Brakeys tutorial----->https://www.youtube.com/watch?v=64NblGkAabk&t=586
 
 The goal is now using this base code to build a low poly "game", tryng to use player models and exploring animations.(who knows maybe i will do some models myself using blender).
 
-Ideas:
+**Ideas:**
 
 - Aply this terrain to a sphere, simulating little planets???.
 - Generating trees based on heigh.
