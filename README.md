@@ -13,4 +13,4 @@ Ideas:
 - Create some sort of mechanic, maybe cutting down tress.
 - Try out some kind of inventory management.
 
-![1](terrain.PNG)
+![1](terrain.png)
