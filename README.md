@@ -18,3 +18,10 @@ trello with some more descriptions: https://trello.com/b/cOHugUTR/unity-sidekick
 ![1](terrain.png)
 
 
+A new version of the terrain with a tree model.
+![2](Low-poly.png) 
+
+A separated scene with the goal of making as testing the player(the litle blue cilinder for now)
+![3](Player.png)
+
+
