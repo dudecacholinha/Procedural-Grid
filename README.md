@@ -13,4 +13,8 @@ The goal is now using this base code to build a low poly "game", tryng to use pl
 - Create some sort of mechanic, maybe cutting down tress.
 - Try out some kind of inventory management.
 
+trello with some more descriptions: https://trello.com/b/cOHugUTR/unity-sidekick
+
 ![1](terrain.png)
+
+
